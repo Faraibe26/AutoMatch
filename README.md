@@ -533,11 +533,11 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**Your Name**  
+Faraibe Khan
 Full-Stack Software Engineer | Spring Boot | React | Cloud Architecture
 
 ---
 
 **Last Updated:** May 13, 2026  
 **Version:** 1.0.0  
-**Status:** Production Ready ✅
+**Status:** Production Ready 
