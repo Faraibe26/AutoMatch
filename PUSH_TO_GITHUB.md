@@ -1,12 +1,12 @@
 # 🚀 Ready to Push to GitHub!
 
-Your Banking Management System is now fully committed and ready to be pushed to GitHub. Here's your quick start guide.
+Your AutoMatch AI car recommendation engine is now fully committed and ready to be pushed to GitHub. Here's your quick start guide.
 
 ## ⚡ Quick Push Steps
 
 ### 1. Create Repository on GitHub
 Visit https://github.com/new and create a new repository:
-- **Name**: `banking-management-system`
+- **Name**: `automatch-ai`
 - **Visibility**: Public (for portfolio)
 - **Don't** initialize with README (we have one)
 
@@ -18,7 +18,7 @@ Copy and paste these commands in your terminal:
 cd /Users/faraibekhan/BankAccount/BankAccount
 
 # Add your GitHub repository as remote
-git remote add origin https://github.com/YOUR_USERNAME/banking-management-system.git
+git remote add origin https://github.com/YOUR_USERNAME/automatch-ai.git
 
 # Push to GitHub
 git push -u origin main
@@ -26,7 +26,7 @@ git push -u origin main
 
 ### 3. Verify Success
 
-- Go to `https://github.com/YOUR_USERNAME/banking-management-system`
+- Go to `https://github.com/YOUR_USERNAME/automatch-ai`
 - You should see all files uploaded
 - README.md will be displayed automatically
 
