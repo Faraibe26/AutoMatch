@@ -534,7 +534,7 @@ MIT License - See LICENSE file for details
 ## 👨‍💻 Author
 
 Faraibe Khan
-Full-Stack Software Engineer | Spring Boot | React | Cloud Architecture
+| Full-Stack Software Engineer | Spring Boot | React | Cloud Architecture
 
 ---
 
